@@ -212,30 +212,16 @@ Currently   : Shipping production-grade difeatures for Kindle at Amazon
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/harishkumarn/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/harishkumarn">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.codewars.com/users/harishkumarn">
-  <img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/harish_kumar_natarajan">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <a href="mailto:harishkr.1110@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="tel:+919788095456">
   <img src="https://img.shields.io/badge/Phone-+91%209788095456-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/harish_kumar_natarajan">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
