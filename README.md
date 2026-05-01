@@ -198,7 +198,7 @@ Currently   : Shipping production-grade difeatures for Kindle at Amazon
 |----------|---------|-------------|
 | <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | [harishkumarn](https://leetcode.com/u/harishkumarn/) | 🔥 **1000+ Problems Solved** |
 | <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /> | [harishkumarn](https://www.hackerrank.com/profile/harishkumarn) | ⭐ **5 Stars** — Problem Solving, Java, C++, Python, JS |
-| <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=flat-square&logo=codewars&logoColor=white" /> | [harishkumarn](https://www.codewars.com/users/harishkumarn) | ⚔️ Active Warrior |
+| <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=flat-square&logo=codewars&logoColor=white" /> | [harishkumar.n](https://www.codewars.com/users/harishkumar.n) | ⚔️ Active Warrior |
 
 </div>
 
