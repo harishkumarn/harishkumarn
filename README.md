@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7EC8E3&center=true&vCenter=true&width=600&lines=SDE2+%40+Amazon+%F0%9F%9F%A0;7%2B+Years+of+Engineering+Excellence;Backend+%7C+Full-Stack+%7C+Systems+Engineer;1000%2B+Problems+Solved+on+LeetCode+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7EC8E3&center=true&vCenter=true&width=600&lines=SDE2+%40+Amazon;7%2B+Years+of+Engineering+Excellence;Backend+%7C+Full-Stack+%7C+Systems+Engineer;1000%2B+Problems+Solved+on+LeetCode+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,17 +24,17 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Harish Kumar N
-role        : SDE2 @ Amazon  |  Ex-Zoho
-experience  : 7+ Years
-location    : Chennai, India
-focus       : Backend Systems · Distributed Architecture · Full-Stack · Systems Engineering
-strengths   :
+Name        : Harish Kumar N
+Role        : SDE2 @ Amazon  |  Ex-Zoho
+Experience  : 7+ Years
+Location    : Chennai, India
+Focus       : Backend Systems · Distributed Architecture · Full-Stack · Systems Engineering
+Strengths   :
   - Designing scalable, high-throughput backend systems
   - Building end-to-end full-stack products
   - Low-level systems programming & performance optimization
   - Solving hard algorithmic problems (1000+ on LeetCode)
-currently   : Shipping production-grade distributed systems at Amazon
+Currently   : Shipping production-grade difeatures for Kindle at Amazon
 ```
 
 ---
@@ -99,7 +99,7 @@ currently   : Shipping production-grade distributed systems at Amazon
     <td>
       <strong>SDE 2 — Amazon</strong><br/>
       Building large-scale, distributed backend systems powering millions of customers.<br/>
-      <sub>🔧 Java · AWS · Kafka · DynamoDB · gRPC · Distributed Systems</sub>
+      <sub>🔧 C/C++ · Java · React-Native · AWS · Linux · </sub>
     </td>
   </tr>
   <tr>
@@ -107,12 +107,69 @@ currently   : Shipping production-grade distributed systems at Amazon
       <img src="https://img.shields.io/badge/-Zoho-E42527?style=flat-square&logo=zoho&logoColor=white" /><br/>
     </td>
     <td>
-      <strong>Software Engineer — Zoho</strong><br/>
-      Developed enterprise SaaS products and full-stack features serving global users.<br/>
-      <sub>🔧 Java · JavaScript · MySQL · REST APIs</sub>
+      <strong>Member Of Technical Staff — Zoho Corp</strong><br/>
+      Developed enterprise SaaS products and full-stack features for Zoho CRM serving global users.<br/>
+      <sub>🔧 Java · JavaScript · Ember.js · MySQL · REST APIs · Ember.js · Redis · Kafka</sub>
     </td>
   </tr>
 </table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 NES Emulator</h3>
+      <a href="https://github.com/harishkumarn/NES-Emulator">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      <p>
+        A full-featured <strong>Nintendo Entertainment System (NES) Emulator</strong> built from scratch.
+        Implements the MOS 6502 CPU, PPU (Picture Processing Unit), memory mapping, and cartridge ROM loading.
+        A deep dive into systems programming, hardware emulation, and low-level architecture.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+        <img src="https://img.shields.io/badge/Systems%20Programming-555?style=flat-square" />
+        <img src="https://img.shields.io/badge/CPU%20Emulation-555?style=flat-square" />
+      </p>
+      <ul>
+        <li>MOS 6502 CPU — full instruction set emulation</li>
+        <li>PPU with sprite rendering & background scrolling</li>
+        <li>Mapper support for multiple ROM formats</li>
+        <li>Cycle-accurate timing & interrupt handling</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕹️ CHIP-8 Emulator</h3>
+      <a href="https://github.com/harishkumarn">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      <p>
+        A complete <strong>CHIP-8 Interpreter / Emulator</strong> — the classic gateway into emulator development.
+        Implements all 35 opcodes, a 64×32 monochrome display, sound & delay timers, and keyboard input handling.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Low--Level%20Programming-555?style=flat-square" />
+        <img src="https://img.shields.io/badge/Opcode%20Emulation-555?style=flat-square" />
+      </p>
+      <ul>
+        <li>Full 35-opcode CHIP-8 instruction set</li>
+        <li>64×32 display with XOR sprite rendering</li>
+        <li>Sound & delay timer emulation</li>
+        <li>Hex keyboard input mapping</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+> 💡 *Both projects reflect a passion for low-level systems, hardware architecture, and understanding computers from the ground up.*
 
 ---
 
