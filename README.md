@@ -146,7 +146,7 @@ Currently   : Shipping production-grade difeatures for Kindle at Amazon
     </td>
     <td width="50%" valign="top">
       <h3>🕹️ CHIP-8 Emulator</h3>
-      <a href="https://github.com/harishkumarn">
+      <a href="https://github.com/harishkumarn/Chip8-Emulator">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
