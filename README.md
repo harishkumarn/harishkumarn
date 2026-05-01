@@ -98,7 +98,7 @@ Currently   : Shipping production-grade difeatures for Kindle at Amazon
     </td>
     <td>
       <strong>SDE 2 — Amazon</strong><br/>
-      Building large-scale, distributed backend systems powering millions of customers.<br/>
+      Building Features for Amazon - Kindle, serving millions of devices.<br/>
       <sub>🔧 C/C++ · Java · React-Native · AWS · Linux · </sub>
     </td>
   </tr>
@@ -132,8 +132,8 @@ Currently   : Shipping production-grade difeatures for Kindle at Amazon
         A deep dive into systems programming, hardware emulation, and low-level architecture.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
         <img src="https://img.shields.io/badge/Systems%20Programming-555?style=flat-square" />
         <img src="https://img.shields.io/badge/CPU%20Emulation-555?style=flat-square" />
       </p>
@@ -155,7 +155,8 @@ Currently   : Shipping production-grade difeatures for Kindle at Amazon
         Implements all 35 opcodes, a 64×32 monochrome display, sound & delay timers, and keyboard input handling.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
         <img src="https://img.shields.io/badge/Low--Level%20Programming-555?style=flat-square" />
         <img src="https://img.shields.io/badge/Opcode%20Emulation-555?style=flat-square" />
       </p>
@@ -177,12 +178,13 @@ Currently   : Shipping production-grade difeatures for Kindle at Amazon
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkumarn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumarn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- Activity Graph — reliable, always renders -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harishkumarn&theme=tokyo-night&hide_border=true&area=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumarn&theme=tokyonight&hide_border=true" />
+<!-- Streak Stats — demolab is more stable than herokuapp -->
+<img src="https://streak-stats.demolab.com/?user=harishkumarn&theme=tokyonight&hide_border=true" />
 
 </div>
 
